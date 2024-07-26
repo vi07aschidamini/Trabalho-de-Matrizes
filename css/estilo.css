@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(112, 38, 124);
+}
+
+h1 {
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    margin: 10px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    margin: 10px;
+}
+
+p {
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 18px;
+    margin: 10px;
+}
+
+table,
+tr,
+td,
+th {
+    border: #000 solid 2px;
+    border-collapse: collapse;
+    padding: 8px;
+    color: white;
+    border-color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.nav-bar {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: #c82fbb;
+    padding: 10px 0;
+}
+
+
+.nav-bar li {
+    margin: 0 10px;
+}
+
+
+.nav-bar li a {
+    color: white;
+    font-size: 31px;
+    text-decoration: none;
+    padding: 8px 16px;
+
+
+}
